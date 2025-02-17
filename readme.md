@@ -1,10 +1,9 @@
-# Thesis
 **Dynamic pricing of e-shop products through machine learning algorithms**
 
 ## Abstract
 Dynamic pricing is a business strategy that periodically adjusts the prices of products or services offered by a company and aims to maximize its long-term profits. It works best in an environment where prices can be adjusted easily and frequently, such as e-commerce. The problem of dynamic pricing is not only about price optimization but also about better knowledge of the relationship between price and market response. This relationship is usually modeled through a demand function, which is based on several unknown factors, the values of which can be found by applying statistical estimation techniques to sales history data. This diploma thesis addresses the problem of dynamic pricing through machine learning. The essential value of machine learning algorithms is that they can generalize through experience. They can then accurately perform new and unknown prediction tasks after experiencing a set of learning data, such as historical sales data. Therefore, the use of machine learning techniques and algorithms is appropriate to address the problem of dynamic pricing.
 
-This diploma thesis proposes a system for the dynamic pricing of products of an e-commerce store, through machine learning models. In this approach, real data are used and the evaluation of the proposed system is done in real time. The main purpose is to develop and present a methodology for solving the problem of dynamic pricing under realistic conditions.
+This project proposes a system for the dynamic pricing of products of an e-commerce store, through machine learning models. In this approach, real data are used and the evaluation of the proposed system is done in real time. The main purpose is to develop and present a methodology for solving the problem of dynamic pricing under realistic conditions.
 
 ---
 
